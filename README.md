@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-前端程序员一枚，一起学习一起成长。
+A student who loves programming.
 
-个人网站：http://blog.wenjw.cn/
+http://blog.wenjw.cn/
 
 <!--
 **lwpersonal/lwpersonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
